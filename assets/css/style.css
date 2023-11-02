@@ -550,7 +550,6 @@ section {
 }
 
 .about .image {
-  /* background: url("../img/Screenshot_20230219-194100_Lightroom.jpg") center center no-repeat; */
   background: url("../img/gowsi.jpeg") center center no-repeat;
 
   background-size: cover;
