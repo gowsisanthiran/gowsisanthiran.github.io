@@ -215,6 +215,23 @@ h6 {
   }
 }
 
+#hero {
+  background-color: #007bff; /* Background color */
+  color: #fff; /* Text color */
+  text-align: center;
+  padding: 100px 0; /* Adjust the padding as needed */
+}
+
+h1 {
+  font-size: 2.5rem; /* Adjust the font size as needed */
+}
+
+h2 {
+  font-size: 1.5rem; /* Adjust the font size as needed */
+}
+
+
+
 /**
 * Mobile Navigation 
 */
@@ -533,7 +550,9 @@ section {
 }
 
 .about .image {
-  background: url("../img/Screenshot_20230219-194100_Lightroom.jpg") center center no-repeat;
+  /* background: url("../img/Screenshot_20230219-194100_Lightroom.jpg") center center no-repeat; */
+  background: url("../img/gowsi.jpeg") center center no-repeat;
+
   background-size: cover;
   min-height: 500px;
 }
